@@ -180,7 +180,7 @@ nav .number h1:hover {
 .home {
     min-height: 100vh;
     width: 100%;
-    background: url('/assets/bg-yes3.png');
+    background: url('../assets/bg-yes3.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -420,7 +420,7 @@ nav .number h1:hover {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 16px;
-    background: url('/assets/services-bg.png') center / cover no-repeat;
+    background: url('../assets/services-bg.png') center / cover no-repeat;
     border-radius: 16px;
     padding: 32px;
 }
@@ -639,7 +639,7 @@ nav .number h1:hover {
  /* notice */
 
 .notice {
-    background-image: url(/assets/notice.png);
+    background-image: url(../assets/notice.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1029,7 +1029,7 @@ nav .number h1:hover {
 
 .contacts {
     padding: 120px 100px 80px 100px;
-    background: url(/assets/pic2.png);
+    background: url(../assets/pic2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1307,7 +1307,7 @@ nav .number h1:hover {
     }
 
     .home {
-        background-image: url(/assets/bg-mobile1.png);
+        background-image: url(../assets/bg-mobile1.png);
         background-attachment: scroll;
         background-size: cover;
         background-position: center top;
@@ -1367,7 +1367,7 @@ nav .number h1:hover {
         grid-template-columns: repeat(1, 1fr);
         gap: 10px;
         padding: 16px;
-        background-image: url(/assets/services-bg3.png);
+        background-image: url(../assets/services-bg3.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1407,7 +1407,7 @@ nav .number h1:hover {
     }
 
     .notice {
-        background-image: url(/assets/notice2.png);
+        background-image: url(../assets/notice2.png);
         background-attachment: scroll;
         padding: 50px 30px 50px 30px;
         margin: 80px 0 0;
