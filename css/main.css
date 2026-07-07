@@ -303,7 +303,7 @@ nav .number h1:hover {
     color: #9C7A2E;
     margin-bottom: 15px;
     opacity: 0;
-    transform: translateX(40px);
+    transform: translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -318,7 +318,7 @@ nav .number h1:hover {
     color: #000;
     max-width: 800px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -389,7 +389,7 @@ nav .number h1:hover {
     color: #9C7A2E;
     margin-bottom: 15px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -403,7 +403,7 @@ nav .number h1:hover {
     font-weight: 400;
     color: #000;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -530,7 +530,7 @@ nav .number h1:hover {
     color: #9C7A2E;
     margin-bottom: 15px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -544,7 +544,7 @@ nav .number h1:hover {
     font-weight: 400;
     color: #000;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -680,7 +680,7 @@ nav .number h1:hover {
     color: #9C7A2E;
     margin-bottom: 15px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -694,7 +694,7 @@ nav .number h1:hover {
     font-size: 35px;
     font-weight: 400;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -807,7 +807,7 @@ nav .number h1:hover {
     color: #9C7A2E;
     padding-bottom: 40px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -823,7 +823,7 @@ nav .number h1:hover {
     padding-bottom: 100px;
     max-width: 600px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -842,7 +842,7 @@ nav .number h1:hover {
     font-weight: 300;
     max-width: 600px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -880,7 +880,7 @@ nav .number h1:hover {
     text-decoration: none;
     color: #c8a96e;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease, background 0.3s ease;
 }
 
@@ -908,7 +908,7 @@ nav .number h1:hover {
     margin-bottom: 15px;
     letter-spacing: 3px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -923,7 +923,7 @@ nav .number h1:hover {
     font-weight: 400;
     margin-bottom: 70px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -1050,7 +1050,7 @@ nav .number h1:hover {
     letter-spacing: 3px;
     margin-bottom: 15px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -1064,7 +1064,7 @@ nav .number h1:hover {
     color: #fff;
     font-weight: 400;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -1081,7 +1081,7 @@ nav .number h1:hover {
 
 .contacts .content .box-container .box {
     opacity: 0;
-    transform:translateY(-40px);
+    transform:translateY(-10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
