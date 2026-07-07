@@ -310,7 +310,7 @@ nav .number h1:hover {
     letter-spacing: 3px;
     margin-bottom: 15px;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -324,7 +324,7 @@ nav .number h1:hover {
     color: #000;
     font-weight: 400;
     opacity: 0;
-    transform:translateX(40px);
+    transform:translateX(10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -341,7 +341,7 @@ nav .number h1:hover {
 
 .contacts .content .box-container .box {
     opacity: 0;
-    transform:translateY(-40px);
+    transform:translateY(-10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
@@ -382,7 +382,7 @@ nav .number h1:hover {
     border-radius: 10px;
     border: 1px solid #9C7A2E;
     opacity: 0;
-    transform:translateX(-40px);
+    transform:translateX(-10px);
     transition: opacity 0.8s ease 0.5s, transform 0.8s ease 0.5s;
 }
 
