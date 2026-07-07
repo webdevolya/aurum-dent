@@ -180,7 +180,7 @@ nav .number h1:hover {
 .home {
     min-height: 100vh;
     width: 100%;
-    background: url('/assets/bg-yes3.png');
+    background: url('../assets/bg-yes3.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -414,7 +414,7 @@ nav .number h1:hover {
 
 .contacts {
     padding: 120px 100px 80px 100px;
-    background: url(/assets/pic2.png);
+    background: url(../assets/pic2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -690,7 +690,7 @@ nav .number h1:hover {
     }
 
     .home {
-        background-image: url(/assets/bg-mobile1.png);
+        background-image: url(../assets/bg-mobile1.png);
         background-attachment: scroll;
         background-size: cover;
         background-position: center top;
